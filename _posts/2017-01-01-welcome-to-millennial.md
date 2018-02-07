@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gainseville Hardcore"
+title: "Venues"
 author: ""
 categories: documentation
 tags: [documentation,sample]
