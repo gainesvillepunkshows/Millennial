@@ -4,7 +4,7 @@ s# Site Build Settings
 paginate:            5
 
 # Build settings
-name:                gainesvillepunkarchives
+name:                gainesvillepunkshows
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
@@ -15,7 +15,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "gainesville punk archives"
+title:		           "gainesville punk shows"
 description:	       ""
 author:              ""
 
