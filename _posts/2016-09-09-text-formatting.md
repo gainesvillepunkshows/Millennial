@@ -138,7 +138,7 @@ lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ip
 
 Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mthtn1X4eUY" frameborder="0" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/JzfE6ES5fEI?rel=0&amp;start=13" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/paululele/timelines/755079130027352064">New Collection</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
